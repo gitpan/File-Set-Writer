@@ -1,0 +1,23 @@
+---
+abstract: 'Buffered writes with a file handle pool'
+author:
+  - 'SymKat I<<symkat@symkat.com>> ( Blog: L<http://symkat.com/> )'
+build_requires:
+  Test::More: 0.90
+distribution_type: module
+generated_by: 'Module::Install version 0.76'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: File-Set-Writer
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Moo: 0
+  MooX::Types::MooseLike::Base: 0
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.000001
